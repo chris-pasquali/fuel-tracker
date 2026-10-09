@@ -2,6 +2,8 @@
 
 Greater Sydney petrol intelligence. **Go**, **Postgres**, **Redis**, **Docker**, and **React + Vite**.
 
+GitHub repository: [chris-pasquali/fuel-tracker](https://github.com/chris-pasquali/fuel-tracker).
+
 The API pulls every prescribed fuel type from the NSW [FuelCheck](https://www.fuelcheck.nsw.gov.au/) API, stores current and historical prices, and answers:
 
 - what day of the week is cheapest
