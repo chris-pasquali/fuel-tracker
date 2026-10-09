@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+dist/
+*.exe
+.env
+tmp/
+web/dist/
+api/server
+api/fillwise
+.DS_Store
